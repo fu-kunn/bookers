@@ -1,0 +1,26 @@
+// Place all the styles related to the books controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing:border-box;
+ }
+
+h1 {
+  margin: 30px;
+ }
+ 
+ p{
+  margin-left: 60px;
+  margin-bottom: 30px;
+ }
+ 
+ a:hover {
+   font-family: verdana, arail, helvetica, sans-serif;
+   font-seiz: 13px;
+   color: #fff;
+   background-color: #000;
+   
+ }

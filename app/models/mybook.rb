@@ -1,2 +1,0 @@
-class Mybook < ApplicationRecord
-end
