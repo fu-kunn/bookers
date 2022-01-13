@@ -1,7 +1,7 @@
 class CreateMybooks < ActiveRecord::Migration[6.1]
   def change
-    create_table :mybooks do |t|
-      
+    create_table :books do |t|
+
       t.string:title
       t.string:body
 
